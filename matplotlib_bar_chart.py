@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+print("Bar Chart\n")
+
 company=['GOOGL','AMZN','MSFT','FB']
 revenue=[90,136,89,27]
 profit =[40,2,34,12]
